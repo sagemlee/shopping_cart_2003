@@ -20,6 +20,6 @@ class Product
 
   def hoard
     @hoarded = true
-  end 
+  end
 
 end
